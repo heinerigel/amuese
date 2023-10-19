@@ -2,7 +2,6 @@ name: leture environment
 channels:
   - conda-forge
 dependencies:
-  - obspy >=1.2.0
   - numpy
   - pip
   - pip:
